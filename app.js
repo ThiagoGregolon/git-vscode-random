@@ -1,4 +1,4 @@
-// TODO: Raffle many values
+// TODO: Add a number of possible raffle;
 
 const inputMin = document.getElementById('min');
 const inputMax = document.getElementById('max');
@@ -34,4 +34,3 @@ function funcRaffle() {
 }
 
 btnResult.addEventListener('click', funcRaffle);
-
