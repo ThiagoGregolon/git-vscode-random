@@ -1,6 +1,4 @@
 // TODO: Add a number of possible raffle;
-// Another Line
-// Other one
 
 const inputMin = document.getElementById('min');
 const inputMax = document.getElementById('max');
